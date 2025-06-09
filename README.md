@@ -1,9 +1,9 @@
 # Eldad Assis
 
-**Principal DevOps Architect @ JFrog | Solving Real-World DevOps Problems**
+**Principal DevOps Architect [@JFrog](https://jfrog.com). Solving Real-World DevOps Problems**
 
+---
 > *"Trying to keep it simple!"*
-
 ---
 
 ## 🚀 About Me
