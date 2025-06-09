@@ -1,4 +1,3 @@
-# Eldad Assis
 
 **Principal DevOps Architect [@JFrog](https://jfrog.com). Solving Real-World DevOps Problems**
 

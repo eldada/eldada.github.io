@@ -1,5 +1,5 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Eldad's Pages
+title: Eldad Assis
 description: My GitHub Pages site. A place to collect my technical bio and highlights
