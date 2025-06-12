@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td width="300">
+<td width="170">
 <img src="images/me.jpg" alt="Eldad Assis" width="150" style="border-radius: 10px; margin-right: 20px;">
 </td>
 <td>
