@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="300">
-<img src="images/me.jpg" alt="Eldad Assis" width="250" style="border-radius: 10px; margin-right: 20px;">
+<img src="images/me.jpg" alt="Eldad Assis" width="150" style="border-radius: 10px; margin-right: 20px;">
 </td>
 <td>
 I'm a seasoned DevOps professional with over 20 years of experience in the field, currently serving as a Principal DevOps Architect at <a href="https://jfrog.com">JFrog's</a> CTO office. I'm passionate about simplifying complex DevOps challenges and helping teams deliver trusted software with speed and security.
