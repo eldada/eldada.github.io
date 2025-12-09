@@ -22,7 +22,7 @@ Based in Israel, I focus on bridging the gap between development and operations,
 
 ## 💼 Professional Experience
 
-**Current Role:** Principal DevOps Architect at **JFrog**
+**Current Role:** Principal DevOps Architect at [**JFrog**](https://jfrog.com)
 - Working with the leading software supply chain platform
 - Specializing in artifact management, security scanning, and MLOps
 - Helping organizations achieve end-to-end visibility and control in their software delivery pipelines
